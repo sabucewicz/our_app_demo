@@ -34,17 +34,17 @@ Niniejsze repozytorium stanowi **w pełni zanonimizowaną wersję demonstracyjn�
 
 #### Zrzuty Ekranu / Screenshots
 
-|            Ekran Logowania / Login            |           Panel Główny / Main Menu            |         Wirtualny Bąbel / Virtual Pet         |
-| :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: |
-| <img src="screenshots/user1.png" width="240"> | <img src="screenshots/lobby.png" width="240"> | <img src="screenshots/babel.png" width="240"> |
+|        1. Ekran Logowania / Login View        |          2. Panel Główny / Main Menu          |         3. Wspólny Kalendarz / Calendar          |
+| :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: |
+| <img src="screenshots/user1.png" width="240"> | <img src="screenshots/lobby.png" width="240"> | <img src="screenshots/calendar.png" width="240"> |
 
-|            Zadania Dnia / Daily Tasks             |           Wspólny Kalendarz / Calendar           |       Licznik Relacji / Milestone Counter       |
-| :-----------------------------------------------: | :----------------------------------------------: | :---------------------------------------------: |
-| <img src="screenshots/dailytask.png" width="240"> | <img src="screenshots/calendar.png" width="240"> | <img src="screenshots/counter.png" width="240"> |
+|     4. Licznik Relacji / Milestone Counter      |        5. Prywatny Czat / Ephemeral Chat         |       6. Wirtualny Bąbel / Virtual Pet        |
+| :---------------------------------------------: | :----------------------------------------------: | :-------------------------------------------: |
+| <img src="screenshots/counter.png" width="240"> | <img src="screenshots/snapchat.png" width="240"> | <img src="screenshots/babel.png" width="240"> |
 
-|          Prywatny Czat / Ephemeral Chat          |
-| :----------------------------------------------: |
-| <img src="screenshots/snapchat.png" width="240"> |
+|           7. Zadania Dnia / Daily Tasks           |
+| :-----------------------------------------------: |
+| <img src="screenshots/dailytask.png" width="240"> |
 
 ---
 
@@ -74,8 +74,20 @@ This repository represents a **fully anonymized Showroom Demo build**. To protec
 
 ---
 
+---
+
 ### 📸 UI Preview (English Grid)
 
-|                  Login View                   |                Main Dashboard                 |               Virtual Companion               |                 Shared Calendar                  |                  Ephemeral Chat                  |
-| :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: |
-| <img src="screenshots/user1.png" width="170"> | <img src="screenshots/lobby.png" width="170"> | <img src="screenshots/babel.png" width="170"> | <img src="screenshots/calendar.png" width="170"> | <img src="screenshots/snapchat.png" width="170"> |
+#### Screenshots
+
+|                 1. Login View                 |               2. Main Dashboard               |                3. Shared Calendar                |
+| :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: |
+| <img src="screenshots/user1.png" width="240"> | <img src="screenshots/lobby.png" width="240"> | <img src="screenshots/calendar.png" width="240"> |
+
+|              4. Milestone Counter               |                5. Ephemeral Chat                 |             6. Virtual Companion              |
+| :---------------------------------------------: | :----------------------------------------------: | :-------------------------------------------: |
+| <img src="screenshots/counter.png" width="240"> | <img src="screenshots/snapchat.png" width="240"> | <img src="screenshots/babel.png" width="240"> |
+
+|                  7. Daily Tasks                   |
+| :-----------------------------------------------: |
+| <img src="screenshots/dailytask.png" width="240"> |
