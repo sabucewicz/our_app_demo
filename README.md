@@ -36,7 +36,7 @@ Niniejsze repozytorium stanowi **w pełni zanonimizowaną wersję demonstracyjn�
 
 |        1. Ekran Logowania / Login View        |          2. Panel Główny / Main Menu          |         3. Wspólny Kalendarz / Calendar          |
 | :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: |
-| <img src="screenshots/user1.png" width="240"> | <img src="screenshots/lobby.png" width="240"> | <img src="screenshots/calendar.png" width="240"> |
+| <img src="screenshots/lobby.png" width="240"> | <img src="screenshots/user1.png" width="240"> | <img src="screenshots/calendar.png" width="240"> |
 
 |     4. Licznik Relacji / Milestone Counter      |        5. Prywatny Czat / Ephemeral Chat         |       6. Wirtualny Bąbel / Virtual Pet        |
 | :---------------------------------------------: | :----------------------------------------------: | :-------------------------------------------: |
@@ -82,7 +82,7 @@ This repository represents a **fully anonymized Showroom Demo build**. To protec
 
 |                 1. Login View                 |               2. Main Dashboard               |                3. Shared Calendar                |
 | :-------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: |
-| <img src="screenshots/user1.png" width="240"> | <img src="screenshots/lobby.png" width="240"> | <img src="screenshots/calendar.png" width="240"> |
+| <img src="screenshots/lobby.png" width="240"> | <img src="screenshots/user1.png" width="240"> | <img src="screenshots/calendar.png" width="240"> |
 
 |              4. Milestone Counter               |                5. Ephemeral Chat                 |             6. Virtual Companion              |
 | :---------------------------------------------: | :----------------------------------------------: | :-------------------------------------------: |
